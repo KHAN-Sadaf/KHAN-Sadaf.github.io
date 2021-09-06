@@ -1,4 +1,4 @@
-# Baber Rehman's homepage
+# Sadaf Khan's homepage
 
 This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
 

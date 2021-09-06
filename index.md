@@ -11,18 +11,17 @@ permalink: /
 ## About
 
 Sadaf Khan <br />
-Type Theory | Functional Programming <br />
-[[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman (at) cs.hku.hk]
+EDA | VLSI Testing | Machine Learning <br />
+[[Github](https://github.com/KHAN-Sadaf/)] | [[LinkedIn](https://www.linkedin.com/in/sadafkhan13/] | [skhan (at) cse.cuhk.edu.hk]
 
-I am a research postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
-My research area is functional programming. I have few years of experience working as DevOps Engineer.
+I am a research postgraduate student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong since November 2020. I am working under the supervision of Dr. Qiang XU.
+My research area is EDA. More Specifically I am working on apply Machine Learning techniques on various VLSI test problems.
 
 ## Academics
 
-1. *PhD Computer Science* (Sep'18 - present) <br />
-   Department of Computer Science, <br />
-   Chinese University of Hong Kong. <br />
-   Field of study: Programming Languages | Type Theory
+1. *PhD Computer Science* (Nov'20 - present) <br />
+   Department of Computer Science and Engineering, <br />
+   The Chinese University of Hong Kong. <br />
 
 2. *BS Computer Science* (Oct'11 - Jun'15) <br />
    PUCIT, University of the Punjab, <br />
@@ -45,17 +44,12 @@ My research area is functional programming. I have few years of experience worki
 3. *Visiting Lecturer* (Oct'15 - Jun'16). PUCIT, University of the Punjab.
 4. *Teacher Assistant* (Oct'13 - Jun'15). PUCIT, University of the Punjab.
 
-
-## CV
-
-[Download PDF](files/cv.pdf).
- 
  
 ## Contact
 
-Baber Rehman <br />
-Department of Computer Science<br />
-The University of Hong Kong<br />
+Sadaf Khan <br />
+Department of Computer Science and Engineering<br />
+The Chinese University of Hong Kong<br />
 
-Office: Room 426 CYC Building<br />
-Email: [brehman (at) cs.hku.hk]
+Office: Room 1026, Ho-Sin Hang Engineering Building<br />
+Email: [skhan (at) cs.cuhk.edu.hk]

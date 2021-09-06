@@ -15,7 +15,7 @@ EDA | VLSI Testing | Machine Learning <br />
 [[Github](https://github.com/KHAN-Sadaf/)] | [[LinkedIn](https://www.linkedin.com/in/sadafkhan13/)] | [skhan (at) cse.cuhk.edu.hk]
 
 I am a research postgraduate student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong since November 2020. I am working under the supervision of Dr. Qiang XU.
-My research area is EDA. More Specifically I am working on apply Machine Learning techniques on various VLSI test problems.
+My research area is EDA. More Specifically, I am working on applying Machine Learning techniques on various VLSI test problems.
 
 ## Academics
 

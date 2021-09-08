@@ -29,19 +29,11 @@ My research area is EDA. More Specifically, I am working on applying Machine Lea
 
 ## Experience
 
-3. *DevOps Lead* (May'17 - Aug'18) <br />
-   CloudPlex PVT LTD, <br />
-   Lahore, Pakistan.
-
-4. *DevOps Engineer* (May'15 - May'17) <br />
+3. *DevOps Engineer* (May'15 - May'17) <br />
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan.
 
 ## Teaching
-
-1. *Teacher Assistant* (Spring'20). Principals of Programming Languages. The University of Hong Kong.
-2. *Teacher Assistant* (Fall'18). Functional Programming. The University of Hong Kong.
-3. *Visiting Lecturer* (Oct'15 - Jun'16). PUCIT, University of the Punjab.
 4. *Teacher Assistant* (Oct'13 - Jun'15). PUCIT, University of the Punjab.
 
  
